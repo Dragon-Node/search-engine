@@ -1,0 +1,33 @@
+{
+  "engineName": "beneluxsearch",
+  "endpointBase": "https://beneluxsearch.ent.westeurope.azure.elastic-cloud.com",
+  "searchKey": "search-rkhgk2t9bk5ttfj2wnxmoyox",
+  "resultFields": [
+    "url_path_dir3",
+    "last_crawled_at",
+    "additional_urls",
+    "body_content",
+    "domains",
+    "title",
+    "meta_keywords",
+    "url",
+    "url_scheme",
+    "meta_description",
+    "headings",
+    "links",
+    "url_port",
+    "url_host",
+    "url_path_dir2",
+    "url_path",
+    "url_path_dir1",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+
+  ],
+  "titleField": "title",
+  "urlField": "url"
+}
